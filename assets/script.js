@@ -1,4 +1,4 @@
-DOMAIN = "andzz.xyz";
+DOMAIN = "https://shortlink-sigma.vercel.app";
 SHORTIO_API_KEY = "pk_M8NSz2WK3m9gHdH2";
 
 // ---------------- SHORTEN LINK ----------------
