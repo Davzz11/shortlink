@@ -1,4 +1,4 @@
-DOMAIN = "link.laavesh.xyz";
+DOMAIN = "andzz.xyz";
 SHORTIO_API_KEY = "pk_M8NSz2WK3m9gHdH2";
 
 // ---------------- SHORTEN LINK ----------------
