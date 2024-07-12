@@ -1,5 +1,5 @@
-DOMAIN = "https://shortlink-sigma.vercel.app";
-SHORTIO_API_KEY = "pk_M8NSz2WK3m9gHdH2";
+DOMAIN = "link.andzz.xyz";
+SHORTIO_API_KEY = "sk_Vl7ER5FQMXoUtYsb";
 
 // ---------------- SHORTEN LINK ----------------
 document.getElementById("myinput").onclick = function () {
